@@ -1,0 +1,21 @@
+.box {
+    width: 450px;
+    height: 90px;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.section1 {
+    display: flex;
+    justify-content: space-between;
+}
